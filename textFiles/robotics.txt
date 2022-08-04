@@ -1,0 +1,11 @@
+manatee
+nautilus
+boxfish
+mako
+lazarus
+cuttlefish
+stingray
+predator
+leviathan
+triton
+phorcys 
